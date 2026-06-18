@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/LKR_Org?style=social)](https://twitter.com/LKR_Org)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LKR_Org?style=social)](https://x.com/lavjeetkumarrai)
 
 # Welcome to [LKR Organization](https://lkrorg.vercel.app/)
 
